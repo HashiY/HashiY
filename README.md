@@ -2,7 +2,6 @@
 
 
 - 🌱 I'm currently learning Game Development with Unity, C# and JavaScript
-- 📫 How to reach me: viniciussafra@outlook.com
 - 😄 Pronouns: He/His - Ele/Dele - 彼
 
 <div>
